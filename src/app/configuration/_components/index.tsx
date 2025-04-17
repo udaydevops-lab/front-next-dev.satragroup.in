@@ -1,0 +1,1 @@
+export { default as MasterHeading } from './_masterlabel'

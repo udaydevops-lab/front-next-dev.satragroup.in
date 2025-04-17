@@ -1,0 +1,9 @@
+.red-background {
+    background-color: red;
+}
+
+@media print {
+    .red-background {
+        background-color: red !important;
+    }
+}

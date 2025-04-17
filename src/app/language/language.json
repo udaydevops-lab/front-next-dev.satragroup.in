@@ -1,0 +1,228 @@
+{
+    "en": {
+        "topheader": {
+            "completed": "Completed",
+            "pending": "Pending",
+            "total": "Total",
+            "waiting": "Waiting",
+            "doctordashboard": "Doctor Dashboard",
+            "ehrsearch": "EHR Screen",
+            "resultsview": "Results View",
+            "doctorcalender": "Doctor Calender",
+            "theatrescheduler": "Theatre Scheduler",
+            "opdappointments": "OPD Appointments",
+            "inpatients": "In patients"
+        },
+        "opAssementLeftbar": {
+            "complaint": "complaint",
+            "pfsh": "PFSH",
+            "diagnosis": "Diagnosis",
+            "examination": "Examination",
+            "painscreening": "Pain Screening",
+            "medicationrx": "Medication Rx",
+            "doctornotes": "Doctor Notes",
+            "cpoe": "CPOE"
+        },
+        "complaint": {
+            "chefcomplaint": "Chief Complaints (snomed)",
+            "duration": "Duration",
+            "time": "Select Time",
+            "comments": "Comments"
+        },
+        "btn": {
+            "add": "Add",
+            "save": "save",
+            "cancel": "Cancel",
+            "create": "Creat"
+        },
+        "grid": {
+            "recordedby": "Recorded By",
+            "datetime": "Recorded Date Time",
+            "actiion": "Actions"
+        },
+        "emrCaresheet": {
+            "tab1": "Vital Signs / Chart",
+            "tab2": "Allergies / Chart",
+            "tab3": "Reason For Visit",
+            "tab4": "Immunization",
+            "tab5": "OP Assessment",
+            "tab6": "Medication RX",
+            "tab7": "Diagnosis",
+            "tab8": "Service Orders",
+            "tab9": "Medical Reports",
+            "tab10": "Referal Order",
+            "tab11": "Pregnancy Details",
+            "tab12": "Admisson Order / Follow up Order /Surgery Order",
+            "tab13": "Health Records",
+            "tab14": "Push Records To ABDM"
+        }
+    },
+    "te": {
+        "topheader": {
+            "completed": "పూర్తయింది",
+            "pending": "పెండింగ్‌లో ఉంది",
+            "total": "మొత్తం",
+            "waiting": "వేచి ఉంది",
+            "doctordashboard": "డాక్టర్ డాష్‌బోర్డ్",
+            "ehrsearch": "ఇహెచ్ఆర్ స్క్రీన్",
+            "resultsview": "ఫలితాల వీక్షణ",
+            "doctorcalender": "డాక్టర్ క్యాలెండర్",
+            "theatrescheduler": "థియేటర్ షెడ్యూలర్",
+            "opdappointments": "ఓపిడి నియామకాలు",
+            "inpatients": "రోగులలో"
+        },
+        "opAssementLeftbar": {
+            "complaint": "ఫిర్యాదులు",
+            "pfsh": "పిఎఫ్ఎస్హెచ్",
+            "diagnosis": "నిర్ధారణ",
+            "examination": "పరీక్ష",
+            "painscreening": "నొప్పి స్క్రీనింగ్",
+            "medicationrx": "ఔషధం Rx",
+            "doctornotes": "డాక్టర్ గమనికలు",
+            "cpoe": "సిపిఓఇ"
+        },
+        "complaint": {
+            "chefcomplaint": "ప్రధాన ఫిర్యాదులు",
+            "duration": "వ్యవధి",
+            "time": "సమయాన్ని ఎంచుకోండి",
+            "comments": "వ్యాఖ్యలు"
+        },
+        "btn": {
+            "add": "జోడించు",
+            "save": "సేవ్",
+            "cancel": "రద్దు చేయండి",
+            "create": "సృష్టి"
+        },
+        "grid": {
+            "recordedby": "రికార్డ్ చేయబడింది",
+            "datetime": "రికార్డ్ చేయబడిన తేదీ సమయం",
+            "actiion": "చర్యలు"
+        },
+        "emrCaresheet": {
+            "tab1": "కీలక సంకేతాలు / చార్ట్",
+            "tab2": "అలెర్జీలు / చార్ట్",
+            "tab3": "సందర్శనకు కారణం",
+            "tab4": "రోగనిరోధకత",
+            "tab5": "OP అసెస్‌మెంట్",
+            "tab6": "మందులు RX",
+            "tab7": "వ్యాధి నిర్ధారణ",
+            "tab8": "సర్వీస్ ఆర్డర్లు",
+            "tab9": "వైద్య నివేదికలు",
+            "tab10": "రెఫరల్ ఆర్డర్",
+            "tab11": "గర్భం వివరాలు",
+            "tab12": "అడ్మిసన్ ఆర్డర్ / ఫాలో అప్ ఆర్డర్ / సర్జరీ ఆర్డర్"
+        }
+    },
+    "hi": {
+        "topheader": {
+            "completed": "पुरा होना",
+            "pending": "लंबित",
+            "total": "कुल",
+            "waiting": "इंतज़ार में",
+            "doctordashboard": "डॉक्टर डैशबोर्ड",
+            "ehrsearch": "ईएचआर",
+            "resultsview": "परिणाम देखें",
+            "doctorcalender": "डॉक्टर कैलेंडर",
+            "theatrescheduler": "थिएटर शेड्यूलर",
+            "opdappointments": "ओपीडी नियुक्तियाँ",
+            "inpatients": "रोगियों में"
+        },
+        "opAssementLeftbar": {
+            "complaint": "शिकायतें",
+            "pfsh": "पीएफएसएच",
+            "diagnosis": "निदान",
+            "examination": "परीक्षण",
+            "painscreening": "दर्द की जांच",
+            "medicationrx": "चिकित्सा Rx",
+            "doctornotes": "डॉक्टर नोट्स",
+            "cpoe": "सीपीओई"
+        },
+        "complaint": {
+            "chefcomplaint": "मुख्य शिकायतें",
+            "duration": "अवधि",
+            "time": "समय चुनें",
+            "comments": "टिप्पणियाँ"
+        },
+        "btn": {
+            "add": "जोड़ना",
+            "save": "सुरक्षित करें",
+            "cancel": "रद्द करना",
+            "create": "बनाएं"
+        },
+        "grid": {
+            "recordedby": "द्वारा दर्ज किया",
+            "datetime": "रिकॉर्ड की गई दिनांक समय",
+            "actiion": "कार्रवाई"
+        },
+        "emrCaresheet": {
+            "tab1": "महत्वपूर्ण संकेत/चार्ट",
+            "tab2": "एलर्जी / चार्ट",
+            "tab3": "मिलने का कारण",
+            "tab4": "प्रतिरक्षा",
+            "tab5": "ओपी मूल्यांकन",
+            "tab6": "दवा आरएक्स",
+            "tab7": "निदान",
+            "tab8": "सेवा आदेश",
+            "tab9": "मेडिकल रिपोर्ट",
+            "tab10": "रेफरल आदेश",
+            "tab11": "गर्भावस्था विवरण",
+            "tab12": "प्रवेश आदेश/अनुवर्ती आदेश/सर्जरी आदेश"
+        }
+    },
+    "ta": {
+        "topheader": {
+            "completed": "நிறைவு",
+            "pending": "நிலுவையில் உள்ளது",
+            "total": "மொத்தம்",
+            "waiting": "காத்திருக்கிறது",
+            "doctordashboard": "டாக்டர் டாஷ்போர்டு",
+            "ehrsearch": "ஈஎச்ஆர் திரை",
+            "resultsview": "முடிவுகள் பார்வை",
+            "doctorcalender": "மருத்துவர் காலண்டர்",
+            "theatrescheduler": "தியேட்டர் திட்டமிடுபவர்",
+            "opdappointments": "ஓபிடி நியமனங்கள்",
+            "inpatients": "நோயாளிகளில்"
+        },
+        "opAssementLeftbar": {
+            "complaint": "புகார்கள்",
+            "pfsh": "பிஎஃப்எஸ்எச்",
+            "diagnosis": "நோய் கண்டறிதல்",
+            "examination": "பரிசோதனை",
+            "painscreening": "வலி திரையிடல்",
+            "medicationrx": "மருந்து Rx",
+            "doctornotes": "டாக்டர் குறிப்புகள்",
+            "cpoe": "சிபிஓஈ"
+        },
+        "complaint": {
+            "chefcomplaint": "தலைமை புகார்கள்",
+            "duration": "கால அளவு",
+            "time": "நேரம்",
+            "comments": "கருத்துகள்"
+        },
+        "btn": {
+            "add": "கூட்டு",
+            "save": "சேமிக்கவும்",
+            "cancel": "ரத்துசெய்",
+            "create": "உருவாக்கம்"
+        },
+        "grid": {
+            "recordedby": "பதிவுசெய்தது",
+            "datetime": "பதிவு செய்யப்பட்ட தேதி நேரம்",
+            "actiion": "செயல்கள்"
+        },
+        "emrCaresheet": {
+            "tab1": "முக்கிய அறிகுறிகள் / விளக்கப்படம்",
+            "tab2": "ஒவ்வாமை / விளக்கப்படம்",
+            "tab3": "வருகைக்கான காரணம்",
+            "tab4": "நோய்த்தடுப்பு",
+            "tab5": "OP மதிப்பீடு",
+            "tab6": "மருந்து RX",
+            "tab7": "நோய் கண்டறிதல்",
+            "tab8": "சேவை ஆணைகள்",
+            "tab9": "மருத்துவ அறிக்கைகள்",
+            "tab10": "பரிந்துரை ஆணை",
+            "tab11": "கர்ப்ப விவரங்கள்",
+            "tab12": "அட்மிசன் ஆர்டர் / ஃபாலோ அப் ஆர்டர் / சர்ஜரி ஆர்டர்"
+        }
+    }
+}
