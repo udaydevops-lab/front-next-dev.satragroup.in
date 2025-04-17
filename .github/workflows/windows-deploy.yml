@@ -1,0 +1,42 @@
+name: Deploy Next.js on Windows Server
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: self-hosted
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: |
+          npm install --force
+
+      - name: Build App
+        run: |
+          npm run build:development
+
+      - name: Kill Existing Process on Port 3000
+        shell: powershell
+        run: |
+          $port = 3000
+          $process = netstat -ano | Select-String ":$port" | Select-String "LISTENING"
+          if ($process) {
+            $pid = ($process -split '\s+')[-1]
+            Write-Host "Killing process with PID: $pid"
+            Stop-Process -Id $pid -Force
+          }
+
+      - name: Start App
+        run: |
+          start /b cmd /c "npm start"
